@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18394196&assignment_repo_type=AssignmentRepo)
 # SE_Day1
-Software Engineering Day1 Assignment
+**Software Engineering Day1 Assignment**
 
 **#Part 1: Introduction to Software Engineering**
 
@@ -141,7 +141,7 @@ Examples include Git with GitHub/GitLab/Bitbucket and Apache Sub
 
 **Define prompt engineering and discuss its importance in interacting with AI models.**
 
-Prompt engineering is the act of authoring directives for AI models that will yield particular results. Prompt engineering is a collaborative and iterative endeavor that involves the selection of phrases, words, and forms that will instruct the AI
+**Prompt engineering** is the act of authoring directives for AI models that will yield particular results. Prompt engineering is a collaborative and iterative endeavor that involves the selection of phrases, words, and forms that will instruct the AI
 
 
 **Benefits of Prompt Engineering**
@@ -152,10 +152,12 @@ Prompt engineering allows the developer to steer the AI interaction with intenti
 
 
 **2. Enhanced User Experience**
+
 Users get the correct and relevant answers with minimal trial and error. Well-structured prompts help AI get it right the first time and minimize the influence of training data-derived biases. They also help AI better understand the intention of the user with a smaller set of inputs. For instance, a request to paraphrase a judicial document and a media report will get two different results in tone and language although the two prompts might be the same, namely "Paraphrase this document."
 
 
 **3. Increased Flexibility**
+
 ﻿Prompt engineering allows organizations to build adaptable and scale-able AI solutions. Through the development of prompts that prioritize logical connections and general patterns, AI models can be applied within multiple domains. An example of this includes an AI that has been trained with generic prompts that identify inefficiencies and can be applied within multiple business processes and departments and yield the highest returns of use.
 
 
@@ -165,7 +167,7 @@ This prompt is extremely broad.  The AI could respond with information about any
 
 Improved Prompt:  _"Write a short paragraph comparing and contrasting the physical characteristics and habitats of African elephants and Asian elephants.  Focus on their size, tusks, ears, and the types of environments they live in."_
 
-_Why the Improved Prompt is More Effective:_
+**_Why the Improved Prompt is More Effective:_**
 - Clarity: It specifies the type of animals (African and Asian elephants).
 - Specificity: It defines the specific aspects to focus on (physical characteristics and habitats).
 - Conciseness: It avoids unnecessary words and gets straight to the point.
