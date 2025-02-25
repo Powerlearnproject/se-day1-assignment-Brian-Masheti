@@ -2,7 +2,7 @@
 # SE_Day1
 **Software Engineering Day1 Assignment**
 
-**#Part 1: Introduction to Software Engineering**
+**# Part 1: Introduction to Software Engineering**
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is a field of computer science that involves the design, development, testing, and maintenance of computer programs and computer-controlled systems.
@@ -48,7 +48,7 @@ The Software Development Life Cycle (SDLC) consists of seven key phases: plannin
 | **Testing** | Performed after development is complete | Ongoing testing throughout development |
 | **Delivery** | Delivered as a complete product at the end | Delivered in increments, allowing for early releases and improvements |
 
-### Appropriate Scenarios
+**Appropriate Scenarios**
 
 - **Waterfall** is best for projects with well-defined requirements and minimal expected changes.  
   - Example: Developing regulatory compliance software where requirements are fixed and documentation is crucial.  
@@ -137,7 +137,7 @@ Examples include Git with GitHub/GitLab/Bitbucket and Apache Sub
 - System Testing: Testing the entire system as a whole.
 - Acceptance Testing: Testing by the customer to ensure the software meets their requirements.   
 
-**#Part 2: Introduction to AI and Prompt Engineering**
+**# Part 2: Introduction to AI and Prompt Engineering**
 
 **Define prompt engineering and discuss its importance in interacting with AI models.**
 
